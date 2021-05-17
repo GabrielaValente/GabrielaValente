@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on BOSS
+- 🔭 I’m currently working
 - 🌱 I’m currently learning react.js
 - 🤔 I’m looking for help with 
 - 💬 Ask me about poetry
