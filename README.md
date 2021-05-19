@@ -11,3 +11,4 @@ Hi, I'm Gabriela, you can call me Gabi 🙋🏼‍♀️
 
 - 📫 How to reach me: 📧 contatogabrielav@hotmail.com 💡Linkedin: https://www.linkedin.com/in/gabrielavalente1/
 
+![Gabriela's github stats](https://github-readme-stats.vercel.app/api?username=gabrielavalente)
