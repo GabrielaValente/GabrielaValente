@@ -1,6 +1,6 @@
 Hi, I'm Gabriela, you can call me Gabi 🙋🏼‍♀️
 
-- 👩🏼‍💻 Developer and studying: PHP, Laravel, SQL, Vue.Js, Bootstrap
+- 👩🏼‍💻 Developer and studying: JavaScript, Vue.Js, React.Js
 - 🎓 Studying Software Engineering 
 
 - 🎈 About me: I like books, tea, TV shows and writing in my spare time
