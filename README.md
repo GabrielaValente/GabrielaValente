@@ -1,7 +1,7 @@
-Hi, I'm Gabriela, you can call me Gabi 🙋🏼‍♀️
+Hi, I'm Gabriela, I prefer to be called Gabi. 🙋🏼‍♀️
 
-- 👩🏼‍💻 Developer and studying: JavaScript, Vue.Js, React.Js
-- 🎓 Studying Software Engineering 
+- 👩🏼‍💻 I'm a Front-end Developer studying: JavaScript, Vue.Js, React.Js
+- 🎓 I am studying for a Bachelor's degree in Software Engineering
 
 - 🎈 About me: I like books, tea, TV shows and writing in my spare time
 - 💜 I'm volunteer on a group of women in technology called MeninasDigitais BA
