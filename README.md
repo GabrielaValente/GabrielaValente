@@ -14,4 +14,4 @@
 
 😻 Love cats
 
-📩 Email me: contatogabriela@hotmail.com or Linkedin: https://www.linkedin.com/in/gabrielavalente1/
+📩 Email me: contatogabriela@hotmail.com
