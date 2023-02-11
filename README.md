@@ -6,7 +6,7 @@
 
 📖 Love books, tea, TV shows & writing
 
-💜 Volunteer with MeninasDigitais BA
+💜 Volunteer at Meninas Digitais Bahia
 
 😂 Big fan of ASMR
 
