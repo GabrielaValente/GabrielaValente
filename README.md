@@ -1,8 +1,17 @@
-Hey there, I'm Gabi. I'm a front-end dev & software engineering student who loves to code. 💻
-I'm also a big bookworm and enjoy reading, watching TV shows, and writing in my free time. 📚
-I'm part of the MeninasDigitais BA group, inspiring other women to join the tech world. 💜
-Oh, and I'm a fan of ASMR too. 🤪 You can reach me at my email if you need anything 📫 contatogabrielav@hotmail.com or my Linkedin 📧 https://www.linkedin.com/in/gabrielavalente1/
+🙋🏼‍♀️ Hi, I'm Gabi
 
+👩🏼‍💻 Front-end dev studying JS, Vue.js & React.js
 
+🎓 Studying Software Engineering
 
-![Gabriela's github stats](https://github-readme-stats.vercel.app/api?username=gabrielavalente)
+📖 Love books, tea, TV shows & writing
+
+💜 Volunteer with MeninasDigitais BA
+
+😂 Big fan of ASMR
+
+📩 Email me: contatogabriela@hotmail.com or Linkedin: https://www.linkedin.com/in/gabrielavalente1/
+
+🌳 Love nature
+
+😻 Love cats
