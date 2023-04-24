@@ -1,15 +1,19 @@
-🙋🏼‍♀️ Hi, I'm Gabi
+Hi, I'm Gabi.
 
-👩🏼‍💻 Front-end dev studying JS, Vue.js & React.js
+👩‍💻 As a front-end developer, I'm really like creating engaging and intuitive user experiences. Currently, I'm focusing on JavaScript, Vue.js, and React.js.
 
-🎓 Studying Software Engineering
+🎓 I'm also a Software Engineering student, eager to expand my knowledge and skills.
 
-📖 Love books, tea, TV shows & writing
+📚 When I'm not coding, you'll likely find me curled up with a book, enjoying a cup of tea, or catching up on my favorite TV shows. 
 
-💜 Volunteer at Meninas Digitais Bahia
+💜 I'm proud to volunteer with Meninas Digitais Bahia, a community that supports and encourages women in tech.
 
-🌳 Love nature
+🌳 I love spending time in nature and enjoy hiking, camping, and exploring new spaces.
 
-😻 Love cats
+😻 Cats hold a special place in my heart, and I'm always happy to share stories and pictures of my feline friends.
 
-📩 How talk to me: contatogabriela@hotmail.com
+📩 Feel free to reach out to me via email or social media if you'd like to connect, chat about tech, or collaborate on a project!
+
+
+
+
