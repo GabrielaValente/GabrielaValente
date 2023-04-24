@@ -8,10 +8,8 @@
 
 💜 Volunteer at Meninas Digitais Bahia
 
-😂 Big fan of ASMR
-
 🌳 Love nature
 
 😻 Love cats
 
-📩 Email me: contatogabriela@hotmail.com
+📩 How talk to me: contatogabriela@hotmail.com
