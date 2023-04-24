@@ -1,6 +1,6 @@
 Hi, I'm Gabi.
 
-👩‍💻 As a front-end developer, I'm really like creating engaging and intuitive user experiences. Currently, I'm focusing on JavaScript, Vue.js, and React.js.
+👩‍💻 As a front-end developer, I really like creating engaging and intuitive user experiences. Currently, I'm focusing on JavaScript, Vue.js, and React.js.
 
 🎓 I'm also a Software Engineering student, eager to expand my knowledge and skills.
 
