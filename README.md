@@ -12,7 +12,7 @@ Hi, I'm Gabi.
 
 😻 Cats hold a special place in my heart, and I'm always happy to share stories and pictures of my feline friends.
 
-📩 Feel free to reach out to me via email or social media if you'd like to connect, chat about tech, or collaborate on a project!
+📩 Feel free to reach out to me via email or social media if you'd like to connect, chat about tech, or collaborate on a project! (Likedin or e-mail)
 
 
 
