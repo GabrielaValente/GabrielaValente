@@ -1,10 +1,6 @@
 Hi, I'm Gabi.
 
-👩‍💻 Looking for my best version everyday :)
-
-🎓 Studying Cybersecurity and Information Security at School.
-
-📚 When I'm not studying, you'll likely find me curled up with a book, enjoying a cup of tea, or catching up on my favorite TV shows. 
+🎓 Cybersecurity and Information Security 
 
 💜 I'm proud to volunteer with Meninas Digitais Bahia and Stem Para Minas, both communities that supports and encourages women in STEM.
 
